@@ -12,7 +12,7 @@ This project implements a predictive model using Support Vector Machine (SVM) to
 
 - Python
 - Jupyter Notebook or Google Colab (for running the code)
-- Libraries: NumPy, pandas, scikit-learn
+- Libraries: NumPy, pandas, scikit-learn, Seaborn
 
 ## Usage
 
